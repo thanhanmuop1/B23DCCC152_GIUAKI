@@ -36,6 +36,12 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	{
+		path: '/phong-hoc',
+		name: 'Phòng học',
+		component: './PhongHoc',
+		icon: 'BuildOutlined',
+	},
 
 	// DANH MUC HE THONG
 	// {
